@@ -36,6 +36,8 @@ This notebook generates the `data/calecpa-google-warrants.csv` and `data/probabl
 
 | File | Description |
 |------|-------------|
-| **`data/probable-geofence-warrants.csv`** | This is a filtered list of warrants included in the State of California Department of Justice's dataset. Rows included in this dataset contained what appeared to be a reference to a geofence warrant in the `Items to be searched for:` column. |
+| **`data/probable-items-geofence-warrants.csv`** | This is a filtered list of warrants included in the State of California Department of Justice's dataset. Rows included in this dataset contained what appeared to be a reference to a geofence warrant in the `Items to be searched for:` column. |
+| **`data/probable-nature-geofence-warrants.csv`** | This is a filtered list of warrants included in the State of California Department of Justice's dataset. Rows included in this dataset contained what appeared to be a reference to a geofence warrant in the `Nature of the investigation` column. |
+| **`data/probable-nature-geofence-warrants.csv`** | This is a filtered list of warrants included in the State of California Department of Justice's dataset. It is a combined version of the `data/probable-items-geofence-warrants.csv` and `data/probable-nature-geofence-warrants.csv` lists. |
 | **`data/calecpa-google-warrants.csv`** | This is a filtered list of warrants included in the State of California Department of Justice's dataset. Rows included in this dataset mention Google in at least one cell. |
 | **`data/geofence-references-key.csv`** | This is a list of each line item included in the `Items to be searched for:` column, manually marked as a probable reference to a geofence warrant or not. |
