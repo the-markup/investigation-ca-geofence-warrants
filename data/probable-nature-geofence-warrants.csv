@@ -1,0 +1,81 @@
+Agency Name:,County of Court,Warrant Number,Submitted,Nature of the investigation,Items to be searched for:,Primary Nature,Crime of Violence Options,Secondary Nature,Order Served on,Business Name,Start Date for Info,End Date for Info,Grounds for Issuance,Reasons for Delay (if any),Emergency?,Facts giving rise to the emergency,fn,Submitted Year
+Los Altos Police Department,Santa Clara,,2020-03-10 12:38:00,Two jewelry store burlgaries occurred in Los Altos in April 2019.  A geofence Search Warrant was obtained and the above listed search warrants are for subscriber information for the reference cellular phone numbers.,"Basic subscriber information from a service provider
+Other transactional and account records from a service provider
+Location information
+Communications (email, text, voice mail, or other communication)
+",Theft/Fraud,,,Device Only,,2019-04-15 0:00:00,2019-04-16 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to destruction of or tampering with evidence
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,electronic-search-warrant-notifications.csv,2020
+Los Altos Police Department,Santa Clara,,2020-03-12 6:10:00,"Two jewelry store burglaries occurred in Los Altos, CA.  After exhausting all leads, I obtained a geofence Search Warrant.  The attached Search Warrants are Stage 4 of the geofence process.  ","Basic subscriber information from a service provider
+Addressing information (pen register or trap and trace)
+Location information
+Communications (email, text, voice mail, or other communication)
+",Theft/Fraud,,,Device Only,,2019-04-01 0:00:00,2019-04-16 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,lead to destruction of or tampering with evidence,No,,electronic-search-warrant-notifications.csv,2020
+Emeryville Police Dept.,Alameda,NONE,2021-07-14 16:46:00,"On 7/3/21 and 7/12/21, two carjacking and robberies occurred in Emeryville. The same suspect vehicle was used in both incidents. A reverse location warrant to Google LLC was sought to obtain location information and potentially identify the suspects.",Location information,Crime of Violence,"Assault
+Robbery
+",,Business,"Google, LLC",2021-07-03 0:00:00,2021-07-12 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+lead to intimidation of potential witnesses
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,electronic-search-warrant-notifications.csv,2021
+Los Gatos-Monte Sereno Police Department,Santa Clara,Not Yet Available,2020-02-15 8:49:00,This is a GEOFENCE search warrant to try to identify the subject who completed robberies at two credit unions in 2019.,Location information,Theft/Fraud,,,Device Only,,2019-09-26 0:00:00,2019-12-13 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,electronic-search-warrant-notifications.csv,2020
+Santa Clara Police Department,Santa Clara,CSW60094,2020-12-23 13:25:00,PC 261 - Google Reverse Location Search,Location information,Crime of Violence,Rape,,Business,Google,2013-07-26 0:00:00,2013-07-26 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,endanger the life or physical safety of an individual,No,,electronic-search-warrant-notifications.csv,2020
+Marina Police Department,Monterey,19-823,2021-02-25 8:37:00,"Subjects had forced entry into several businesses throughout Monterey county, and stole ATM Machines.  Due to the narrow time frame between events, a Google Geofence warrant was written to assist in identifying possible suspects.  ",ID number for subscribers in the area,Theft/Fraud,,,Device Only,,2019-04-04 0:00:00,2019-04-05 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to destruction of or tampering with evidence
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,electronic-search-warrant-notifications.csv,2021
+Los Gatos Monte Sereno Police Department,Santa Clara,CSW608-09,2021-03-22 14:35:00,Multiple commercial burglaries. Google geofence warrant used in an attempt to ID suspects.,Location information,Theft/Fraud,,,Business,Google,2021-12-20 0:00:00,2021-12-20 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+",No,,electronic-search-warrant-notifications.csv,2021
+Los Gatos Monte Sereno Police Department,Santa Clara,CSW61037,2021-03-29 8:20:00,Three commercial burglaries that all occurred on the same night by the same suspects. A geofence warrant was used to attempt to ID suspects.,Location information,Theft/Fraud,,,Device Only,,2020-12-20 0:00:00,2020-12-20 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,electronic-search-warrant-notifications.csv,2021
+Davis Police Department,Yolo,,2021-04-06 14:14:00,Sexual Assault in a public place by an unknown suspect.  Geo fence warrant obtained.,Basic subscriber information from a service provider,Crime of Violence,"Assault
+Robbery
+",,Device Only,,2020-08-11 0:00:00,2020-08-11 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,electronic-search-warrant-notifications.csv,2021
+Orange PD,Orange,14291,2021-07-20 8:08:00,Robbery investigation geofence search warrant,Other transactional and account records from a service provider,Crime of Violence,Robbery,,Business,Google LLC,2021-03-14 0:00:00,2021-03-14 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+",No,,electronic-search-warrant-notifications.csv,2021
+Orange PD,Orange,,2021-07-20 8:17:00,Robbery investigation geofence warrant,"Other transactional and account records from a service provider
+Location information
+",Crime of Violence,Robbery,,Business,Google LLC,2021-03-14 0:00:00,2021-03-14 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+",No,,electronic-search-warrant-notifications.csv,2021
+Woodland Police Department,Yolo,SW#20-432,2021-07-16 8:36:00,"unknown suspect burned multiple vehicles, Google reverse location history warrant was obtained in an effort to locate a suspect.  ",Basic subscriber information from a service provider,ARSON,,,Device Only,,2020-11-09 0:00:00,2020-11-09 0:00:00,was used as the means of committing a felony,lead to destruction of or tampering with evidence,No,,electronic-search-warrant-notifications.csv,2021
+Woodland Police Department,Yolo,SW#21-80,2021-07-16 8:47:00,"Multiple catalytic converter theft investigation, I obtained a Google reverse location history search warrant to located similar Google accounts at all locations",Basic subscriber information from a service provider,Theft/Fraud,,,Device Only,,2020-05-30 0:00:00,2020-06-04 0:00:00,was used as the means of committing a felony,,No,,electronic-search-warrant-notifications.csv,2021
+Woodland Police Department,Yolo,SW#21-290,2021-07-16 8:51:00,Unknown suspect robbed a bank and fled in a vehicle.  Google reverse location history warrant was obtained in an effort to identify suspect.,Basic subscriber information from a service provider,Crime of Violence,Robbery,,Device Only,,2020-11-18 0:00:00,2020-11-20 0:00:00,was used as the means of committing a felony,,No,,electronic-search-warrant-notifications.csv,2021
+San Jose Police Department,Santa Clara,CSW546650,2019-03-20 17:00:00,An armed home invasion robbery occurred on 12/12/18 at [redacted] in San Jose. A Google geo fence warrant was sought to identify the suspects.,"Basic subscriber information from a service provider
+Other transactional and account records from a service provider
+Location information
+",Crime of Violence,Robbery,,Device Only,,2018-12-12 0:00:00,2018-12-12 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,eswn2019.xlsx,2019
+ANTIOCH POLICE DEPT.,Contra Costa,P19-171,2019-05-01 16:05:00,GOOGLE REVERSE WARRANT,ANONYMIZED PROFILES IN AREA OF HOMICIDE,Homicide,,Gang Related,Business,GOOGLE,2019-03-10 0:00:00,2019-03-10 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"endanger the life or physical safety of an individual
+lead to flight from prosecution
+lead to destruction of or tampering with evidence
+lead to intimidation of potential witnesses
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",Yes,DAYS AFTER MURDER A SECOND SHOOTING HAPPENED AT THE VICTIM'S MEMORIAL.,eswn2019.xlsx,2019
+Emeryville Police Department,Alameda,WAR532087,2019-06-17 6:28:00," The timeframe of the Google request of 02/11/2018 08:36PM PST to 02/11/2018 09:10PM PST will allow investigators_x000D_
+to see which Google device tags were present in the geographic area prior to, during, and after the crime. The_x000D_
+information provided by the extended timeframe and times when entering and exiting the geographical area will allow_x000D_
+investigators to determine which device tags require further investigation and which ones do not. The initial device tags_x000D_
+provided by Google do not include any subscriber information and is provided in an anonymized list",Location information,Crime of Violence,Robbery,Minors,Device Only,,2018-02-11 0:00:00,2018-02-11 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,eswn2019.xlsx,2019
+San Francisco Police Department,San Francisco,SW42963,2019-06-19 9:49:00,Google reverse geolocation search warrant in attempt to locate suspect devices at scene of homicide.,Location information,Homicide,,,Business,Google,2018-12-24 0:00:00,2018-12-24 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+lead to intimidation of potential witnesses
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,eswn2019.xlsx,2019
+Monterey County District Attorney's Office,Monterey,19-569,2019-08-20 16:41:00,Geofence SW around the crime scenes.,"Location information
+Google & iPhone device information
+",Homicide,,Minors,Device Only,,2018-12-26 0:00:00,2018-12-26 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,eswn2019.xlsx,2019
+Sacramento Sheriff,Sacramento,19SW02473,2019-09-25 12:57:00,"Geofence SW related to PC 245 (Shooting) which occurred on Anaheim Court in Sacramento County on April 8th, 2019.",Location information,Crime of Violence,Assault,,Device Only,,2019-04-08 0:00:00,2019-04-08 0:00:00,"was used as the means of committing a felony
+tends to show that a felony has been committed or that a particular person has committed a felony
+","lead to destruction of or tampering with evidence
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,eswn2019.xlsx,2019
+Sacramento Sheriff,Sacramento,,2019-09-25 13:12:00,Homicide Investigation from 12/10/2018 near Melrose Drive in North Highlands CA.  Google Geofence Search Warrant.,Location information,Homicide,,,Device Only,,2018-12-10 0:00:00,2018-12-10 0:00:00,was used as the means of committing a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,eswn2019.xlsx,2019
+Novato Police Department,Marin,,2019-11-15 12:56:00,"This incident occurred in July, 2019. The suspect a BMA approached the victim in Novato on First St at Grant Ave. The BMA Suspect pointed a dark colored pistol at the victims face and forcibly stole the victim's purse and fled the scene in a newer blue Volkswagon Tiguan. Shortly after the robbery, the suspect used the victim's credit cards at a KFC located in Oakland. A Google Geo-Fence warrant was granted by a judge and executed to trace any cell data where the original crime occurred (First St and Grant Ave) and also at KFC in Oakland (3400 Foothill Blvd) in an attempt to locate the same device at both areas. In November, 2019 I received  Device ID information from Google which did not appear to be a match to the suspect. There is no date of births or addresses for the Device ID individual's and therefore I am unable to send hard copy letters. Therefore, I ultimately utilized CLEW to upload the data. ","Basic subscriber information from a service provider
+Location information
+",Crime of Violence,Robbery,,Device Only,,2019-07-15 0:00:00,2019-07-15 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,lead to destruction of or tampering with evidence,No,,eswn2019.xlsx,2019

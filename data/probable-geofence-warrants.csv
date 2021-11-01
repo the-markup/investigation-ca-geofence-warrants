@@ -1,127 +1,198 @@
 Agency Name:,County of Court,Warrant Number,Submitted,Nature of the investigation,Primary Nature,Crime of Violence Options,Secondary Nature,Order Served on,Business Name,Items to be searched for:,Start Date for Info,End Date for Info,Grounds for Issuance,Reasons for Delay (if any),Emergency?,Facts giving rise to the emergency,fn,Submitted Year
-Walnut CReek PD,Contra Costa,,43410.66389,314 PC - Indecent Exposure,Sex Crimes,,,Business,Google LLC,Anonymized Google Users,43368,43383,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+Walnut CReek PD,Contra Costa,,2018-11-06 15:56:00,314 PC - Indecent Exposure,Sex Crimes,,,Business,Google LLC,Anonymized Google Users,2018-09-25 0:00:00,2018-10-10 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
 lead to destruction of or tampering with evidence
 otherwise seriously jeopardize an investigation or unduly delay a trial
 ",No,,eswn2018.xlsx,2018
-Tustin PD,Orange,,43558.25417,"Residential Burglary Crew targeting multiple cities in Orange County, Ca.",Theft/Fraud,,,Device Only,,Google anonymous identifier list,43527,43527,"was used as the means of committing a felony
+Seaside Police Department,Monterey,18-318,2019-01-22 8:56:00,Burglary to a gunsmithing shop where 11 firearms were stolen along with other property.,Theft/Fraud,,,Business,Google LLC,Device ID in a particular location from Google,2017-08-26 0:00:00,2017-08-28 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,eswn2019.xlsx,2019
+Seaside Police Department,Monterey,18-318,2019-01-22 9:00:00,A homicide occurred where the victim was shot several times.,Homicide,,,Business,Google LLC,Device ID in a particular location from Google,2017-08-26 0:00:00,2017-08-26 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,eswn2019.xlsx,2019
+Seaside Police Department,Monterey,18-316,2019-01-22 9:05:00,Burglary to a gunsmithing shop where 11 firearms were stolen.,Theft/Fraud,,,Business,Google LLC,Device ID in a particular location from Google,2018-10-05 0:00:00,2018-10-05 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to destruction of or tampering with evidence
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,eswn2019.xlsx,2019
+REACT Task Force,Alameda,WAR499352,2019-02-01 13:28:00,A computer component manufacturing business was burglarized by unknown suspects.  Loss is over $800k.,Theft/Fraud,,,Business,Google,Reverse Geolocation data,2019-01-28 0:00:00,2019-01-28 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+",No,,eswn2019.xlsx,2019
+Orange County Sheriff's Department,Orange,19-9999,2019-03-19 6:38:00,Google search warrant to obtain devices in the area of the robbery to gain possible suspects.,Crime of Violence,Robbery,,Business,Google LLC.,"Location information
+Device information in the area
+",2019-03-11 0:00:00,2019-03-11 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,eswn2019.xlsx,2019
+San Jose Police Department,Santa Clara,CSW546650,2019-03-20 17:00:00,An armed home invasion robbery occurred on 12/12/18 at [redacted] in San Jose. A Google geo fence warrant was sought to identify the suspects.,Crime of Violence,Robbery,,Device Only,,"Basic subscriber information from a service provider
+Other transactional and account records from a service provider
+Location information
+",2018-12-12 0:00:00,2018-12-12 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,eswn2019.xlsx,2019
+Tustin PD,Orange,,2019-04-03 5:56:00,"Residential Burglary Crew targeting multiple cities in Orange County, Ca.",Theft/Fraud,,,Device Only,,Google anonymous identifier list,2019-02-15 0:00:00,2019-03-16 0:00:00,"was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ",,No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43559.27847,Residential Burglary Investigation,Theft/Fraud,,,Business,Google LLC,Google Anonymous Identifier List,43524,43524,"was used as the means of committing a felony
+Tustin PD,Orange,,2019-04-03 6:02:00,"Commercial Burglary Suspects who targeted a jewelry store in Tustin, Ca.",Theft/Fraud,,,Device Only,,Google anonymous identifier list,2018-10-13 0:00:00,2018-10-13 0:00:00,"was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ",,No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43559.28056,Residential Burglary,Theft/Fraud,,,Business,Google LLC,Google Anonymous Identifier List,43532,43532,"was used as the means of committing a felony
+Tustin PD,Orange,,2019-04-03 6:06:00,"Residential Burglary Crew targeting multiple cities in Orange County, Ca.",Theft/Fraud,,,Device Only,,Google anonymous identifier list,2019-03-03 0:00:00,2019-03-03 0:00:00,"was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ",,No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43559.28194,Residential Burglary,Theft/Fraud,,,Business,Google LLC,Google Anonymous Identifier List,43530,43530,"was used as the means of committing a felony
+Tustin PD,Orange,,2019-04-04 6:41:00,Residential Burglary Investigation,Theft/Fraud,,,Business,Google LLC,Google Anonymous Identifier List,2019-02-28 0:00:00,2019-02-28 0:00:00,"was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ",,No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43563.62361,Residential Burglary investigation.,Theft/Fraud,,,Residence,,Google Anonymous Identifier List,43549,43549,"was used as the means of committing a felony
+Tustin PD,Orange,,2019-04-04 6:44:00,Residential Burglary,Theft/Fraud,,,Business,Google LLC,Google Anonymous Identifier List,2019-03-08 0:00:00,2019-03-08 0:00:00,"was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ",,No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43566.62708,"Residential Burglary crew targeting multiple cities in Orange County, Ca.","Theft/Fraud
+Tustin PD,Orange,,2019-04-04 6:46:00,Residential Burglary,Theft/Fraud,,,Business,Google LLC,Google Anonymous Identifier List,2019-03-06 0:00:00,2019-03-06 0:00:00,"was used as the means of committing a felony
+tends to show that a felony has been committed or that a particular person has committed a felony
+",,No,,eswn2019.xlsx,2019
+Tustin PD,Orange,,2019-04-08 14:58:00,Residential Burglary investigation.,Theft/Fraud,,,Residence,,Google Anonymous Identifier List,2019-03-25 0:00:00,2019-03-25 0:00:00,"was used as the means of committing a felony
+tends to show that a felony has been committed or that a particular person has committed a felony
+",,No,,eswn2019.xlsx,2019
+Tustin PD,Orange,,2019-04-11 15:03:00,"Residential Burglary crew targeting multiple cities in Orange County, Ca.","Theft/Fraud
 Residential Burglary Crew
-",,,Business,Google LLC,Google Anonymous Identifier List,43540,43540,"was used as the means of committing a felony
+",,,Business,Google LLC,Google Anonymous Identifier List,2019-03-16 0:00:00,2019-03-16 0:00:00,"was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ",,No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43579.36736,Residential burglaries occurring in multiple cities.,Theft/Fraud,,,Business,Google LLC,Anonymous Device ID expanded location data,43549,43549,"was used as the means of committing a felony
+Tustin PD,Orange,,2019-04-24 8:49:00,Residential burglaries occurring in multiple cities.,Theft/Fraud,,,Business,Google LLC,Anonymous Device ID expanded location data,2019-03-25 0:00:00,2019-03-25 0:00:00,"was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ",,No,,eswn2019.xlsx,2019
-ANTIOCH POLICE DEPT.,Contra Costa,P19-171,43586.67014,GOOGLE REVERSE WARRANT,Homicide,,Gang Related,Business,GOOGLE,ANONYMIZED PROFILES IN AREA OF HOMICIDE,43534,43534,tends to show that a felony has been committed or that a particular person has committed a felony,"endanger the life or physical safety of an individual
+ANTIOCH POLICE DEPT.,Contra Costa,P19-171,2019-05-01 16:05:00,GOOGLE REVERSE WARRANT,Homicide,,Gang Related,Business,GOOGLE,ANONYMIZED PROFILES IN AREA OF HOMICIDE,2019-03-10 0:00:00,2019-03-10 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"endanger the life or physical safety of an individual
 lead to flight from prosecution
 lead to destruction of or tampering with evidence
 lead to intimidation of potential witnesses
 otherwise seriously jeopardize an investigation or unduly delay a trial
 ",Yes,DAYS AFTER MURDER A SECOND SHOOTING HAPPENED AT THE VICTIM'S MEMORIAL.,eswn2019.xlsx,2019
-Los Angeles County District Attorney Bureau of Investigation,Los Angeles,AN19S0010734,43601.41458,187 PC,Homicide,,,Business,Google,geolocation,43488,43488,"was used as the means of committing a felony
+Los Angeles County District Attorney Bureau of Investigation,Los Angeles,AN19S0010734,2019-05-16 9:57:00,187 PC,Homicide,,,Business,Google,geolocation,2019-01-23 0:00:00,2019-01-23 0:00:00,"was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ",lead to destruction of or tampering with evidence,No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43607.63472,Vehicle Burglary / Grand Theft,Theft/Fraud,,,Business,Google LLC,Anonymous device ID location data.,43565,43565,"was stolen or embezzled
+Tustin PD,Orange,,2019-05-22 15:14:00,Vehicle Burglary / Grand Theft,Theft/Fraud,,,Business,Google LLC,Anonymous device ID location data.,2019-04-10 0:00:00,2019-04-10 0:00:00,"was stolen or embezzled
 was used as the means of committing a felony
 ",,No,,eswn2019.xlsx,2019
-Ventura County Sheriff,Ventura,SW# 455-19,43614.58542,Armed robbery investigation occurring on 10-18-17.,Armed Robbery,,,Business,Google,Anonymized user location data,43026,43034,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+Ventura County Sheriff,Ventura,SW# 455-19,2019-05-29 14:03:00,Armed robbery investigation occurring on 10-18-17.,Armed Robbery,,,Business,Google,Anonymized user location data,2017-10-18 0:00:00,2017-10-26 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
 lead to destruction of or tampering with evidence
 otherwise seriously jeopardize an investigation or unduly delay a trial
 ",No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43620.6875,Residential Burglary,"Theft/Fraud
+Tustin PD,Orange,,2019-06-04 16:30:00,Residential Burglary,"Theft/Fraud
 Residential Burglary
-",,,Device Only,,Google Anonymous Identifier List,43592,43592,"was stolen or embezzled
+",,,Device Only,,Google Anonymous Identifier List,2019-05-07 0:00:00,2019-05-07 0:00:00,"was stolen or embezzled
 was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ",,No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43620.68958,Residential Burglary,"Theft/Fraud
+Tustin PD,Orange,,2019-06-04 16:33:00,Residential Burglary,"Theft/Fraud
 Residential Burglary
-",,,Device Only,,Anonymous device ID location data.,43593,43593,"was stolen or embezzled
+",,,Device Only,,Anonymous device ID location data.,2019-05-08 0:00:00,2019-05-08 0:00:00,"was stolen or embezzled
 was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ",,No,,eswn2019.xlsx,2019
-Lemoore Police Department,Kings,19-172B,43642.575,Drive by shooting,Crime of Violence,Assault,,Business,Google,Geofence,43546,43546,tends to show that a felony has been committed or that a particular person has committed a felony,"endanger the life or physical safety of an individual
+Emeryville Police Department,Alameda,WAR532087,2019-06-17 6:28:00," The timeframe of the Google request of 02/11/2018 08:36PM PST to 02/11/2018 09:10PM PST will allow investigators_x000D_
+to see which Google device tags were present in the geographic area prior to, during, and after the crime. The_x000D_
+information provided by the extended timeframe and times when entering and exiting the geographical area will allow_x000D_
+investigators to determine which device tags require further investigation and which ones do not. The initial device tags_x000D_
+provided by Google do not include any subscriber information and is provided in an anonymized list",Crime of Violence,Robbery,Minors,Device Only,,Location information,2018-02-11 0:00:00,2018-02-11 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,eswn2019.xlsx,2019
+San Francisco Police Department,San Francisco,SW42963,2019-06-19 9:49:00,Google reverse geolocation search warrant in attempt to locate suspect devices at scene of homicide.,Homicide,,,Business,Google,Location information,2018-12-24 0:00:00,2018-12-24 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+lead to intimidation of potential witnesses
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,eswn2019.xlsx,2019
+Lemoore Police Department,Kings,19-172B,2019-06-26 13:48:00,Drive by shooting,Crime of Violence,Assault,,Business,Google,Geofence,2019-03-22 0:00:00,2019-03-22 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"endanger the life or physical safety of an individual
 lead to flight from prosecution
 lead to destruction of or tampering with evidence
 lead to intimidation of potential witnesses
 otherwise seriously jeopardize an investigation or unduly delay a trial
 ",No,,eswn2019.xlsx,2019
-Lemoore Police Department,Kings,19-172A,43642.57569,Homicide,Homicide,,Gang Related,Business,Google,Geofence,43632,43632,tends to show that a felony has been committed or that a particular person has committed a felony,lead to intimidation of potential witnesses,No,,eswn2019.xlsx,2019
-Monterey County District Attorney's Office,Monterey,19-569,43697.69514,Geofence SW around the crime scenes.,Homicide,,Minors,Device Only,,"Location information
+Lemoore Police Department,Kings,19-172A,2019-06-26 13:49:00,Homicide,Homicide,,Gang Related,Business,Google,Geofence,2019-06-16 0:00:00,2019-06-16 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,lead to intimidation of potential witnesses,No,,eswn2019.xlsx,2019
+Monterey County District Attorney's Office,Monterey,19-569,2019-08-20 16:41:00,Geofence SW around the crime scenes.,Homicide,,Minors,Device Only,,"Location information
 Google & iPhone device information
-",43460,43460,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43558.25139,"Commercial Burglary Suspects who targeted a jewelry store in Tustin, Ca.",Theft/Fraud,,,Device Only,,Google anonymous identifier list,43386,43386,"was used as the means of committing a felony
+",2018-12-26 0:00:00,2018-12-26 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,eswn2019.xlsx,2019
+Sacramento Sheriff,Sacramento,19SW02473,2019-09-25 12:57:00,"Geofence SW related to PC 245 (Shooting) which occurred on Anaheim Court in Sacramento County on April 8th, 2019.",Crime of Violence,Assault,,Device Only,,Location information,2019-04-08 0:00:00,2019-04-08 0:00:00,"was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
-",,No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43558.24722,"Residential Burglary Crew targeting multiple cities in Orange County, Ca.",Theft/Fraud,,,Device Only,,Google anonymous identifier list,43511,43540,"was used as the means of committing a felony
-tends to show that a felony has been committed or that a particular person has committed a felony
-",,No,,eswn2019.xlsx,2019
-Tustin PD,Orange,,43818.32917,Victim was stabbed by unknown suspect/s and died while taking a walk.,Homicide,,,Business,Google LLC,Google Anonymous Identifier List,43808,43808,"was used as the means of committing a felony
+","lead to destruction of or tampering with evidence
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,eswn2019.xlsx,2019
+Sacramento Sheriff,Sacramento,,2019-09-25 13:12:00,Homicide Investigation from 12/10/2018 near Melrose Drive in North Highlands CA.  Google Geofence Search Warrant.,Homicide,,,Device Only,,Location information,2018-12-10 0:00:00,2018-12-10 0:00:00,was used as the means of committing a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,eswn2019.xlsx,2019
+Novato Police Department,Marin,,2019-11-15 12:56:00,"This incident occurred in July, 2019. The suspect a BMA approached the victim in Novato on First St at Grant Ave. The BMA Suspect pointed a dark colored pistol at the victims face and forcibly stole the victim's purse and fled the scene in a newer blue Volkswagon Tiguan. Shortly after the robbery, the suspect used the victim's credit cards at a KFC located in Oakland. A Google Geo-Fence warrant was granted by a judge and executed to trace any cell data where the original crime occurred (First St and Grant Ave) and also at KFC in Oakland (3400 Foothill Blvd) in an attempt to locate the same device at both areas. In November, 2019 I received  Device ID information from Google which did not appear to be a match to the suspect. There is no date of births or addresses for the Device ID individual's and therefore I am unable to send hard copy letters. Therefore, I ultimately utilized CLEW to upload the data. ",Crime of Violence,Robbery,,Device Only,,"Basic subscriber information from a service provider
+Location information
+",2019-07-15 0:00:00,2019-07-15 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,lead to destruction of or tampering with evidence,No,,eswn2019.xlsx,2019
+San Mateo Police Department,San Mateo,,2019-12-06 13:02:00,commercial burglary,Burglary,,,Business,Google LLC,users within a geographical area,2019-06-26 0:00:00,2019-06-26 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to destruction of or tampering with evidence
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,eswn2019.xlsx,2019
+Tustin PD,Orange,,2019-12-19 7:54:00,Victim was stabbed by unknown suspect/s and died while taking a walk.,Homicide,,,Business,Google LLC,Google Anonymous Identifier List,2019-12-09 0:00:00,2019-12-09 0:00:00,"was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ","endanger the life or physical safety of an individual
 lead to flight from prosecution
 lead to destruction of or tampering with evidence
 otherwise seriously jeopardize an investigation or unduly delay a trial
 ",No,,eswn2019.xlsx,2019
-San Mateo Police Department,San Mateo,,43805.54306,commercial burglary,Burglary,,,Business,Google LLC,users within a geographical area,43642,43642,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to destruction of or tampering with evidence
+Los Gatos-Monte Sereno Police Department,Santa Clara,Not Yet Available,2020-02-15 8:49:00,This is a GEOFENCE search warrant to try to identify the subject who completed robberies at two credit unions in 2019.,Theft/Fraud,,,Device Only,,Location information,2019-09-26 0:00:00,2019-12-13 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,electronic-search-warrant-notifications.csv,2020
+Orang Police Department,Orange,12502,2020-02-25 12:52:00,Susps stole victim's property as knife point.,Crime of Violence,Robbery,,Device Only,,"Location information
+Geo Fence
+",2019-12-03 0:00:00,2019-12-13 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,otherwise seriously jeopardize an investigation or unduly delay a trial,No,,electronic-search-warrant-notifications.csv,2020
+Orang Police Department,Orange,12785,2020-02-25 12:56:00,Susps struck the victim several times and stole his property.,Crime of Violence,Robbery,,Device Only,,"Location information
+Geo Fence
+",2020-02-19 0:00:00,2020-02-29 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,otherwise seriously jeopardize an investigation or unduly delay a trial,No,,electronic-search-warrant-notifications.csv,2020
+Los Altos Police Department,Santa Clara,,2020-03-10 12:38:00,Two jewelry store burlgaries occurred in Los Altos in April 2019.  A geofence Search Warrant was obtained and the above listed search warrants are for subscriber information for the reference cellular phone numbers.,Theft/Fraud,,,Device Only,,"Basic subscriber information from a service provider
+Other transactional and account records from a service provider
+Location information
+Communications (email, text, voice mail, or other communication)
+",2019-04-15 0:00:00,2019-04-16 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to destruction of or tampering with evidence
 otherwise seriously jeopardize an investigation or unduly delay a trial
-",No,,eswn2019.xlsx,2019
-REACT Task Force,Alameda,WAR499352,43497.56111,A computer component manufacturing business was burglarized by unknown suspects.  Loss is over $800k.,Theft/Fraud,,,Business,Google,Reverse Geolocation data,43493,43493,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
-lead to destruction of or tampering with evidence
-",No,,eswn2019.xlsx,2019
-Seaside Police Department,Monterey,18-316,43487.37847,Burglary to a gunsmithing shop where 11 firearms were stolen.,Theft/Fraud,,,Business,Google LLC,Device ID in a particular location from Google,43378,43378,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to destruction of or tampering with evidence
-otherwise seriously jeopardize an investigation or unduly delay a trial
-",No,,eswn2019.xlsx,2019
-Seaside Police Department,Monterey,18-318,43487.375,A homicide occurred where the victim was shot several times.,Homicide,,,Business,Google LLC,Device ID in a particular location from Google,42973,42973,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,eswn2019.xlsx,2019
-Seaside Police Department,Monterey,18-318,43487.37222,Burglary to a gunsmithing shop where 11 firearms were stolen along with other property.,Theft/Fraud,,,Business,Google LLC,Device ID in a particular location from Google,42973,42975,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,eswn2019.xlsx,2019
-Orange County Sheriff's Department,Orange,19-9999,43543.27639,Google search warrant to obtain devices in the area of the robbery to gain possible suspects.,Crime of Violence,Robbery,,Business,Google LLC.,"Location information
-Device information in the area
-",43535,43535,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,eswn2019.xlsx,2019
-San Mateo Police Department,San Mateo,,43984.49375,criminal investigation,Burglary,,,Business,Google,reverse google,43642,43642,"was used as the means of committing a felony
+",No,,electronic-search-warrant-notifications.csv,2020
+Los Altos Police Department,Santa Clara,,2020-03-12 6:10:00,"Two jewelry store burglaries occurred in Los Altos, CA.  After exhausting all leads, I obtained a geofence Search Warrant.  The attached Search Warrants are Stage 4 of the geofence process.  ",Theft/Fraud,,,Device Only,,"Basic subscriber information from a service provider
+Addressing information (pen register or trap and trace)
+Location information
+Communications (email, text, voice mail, or other communication)
+",2019-04-01 0:00:00,2019-04-16 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,lead to destruction of or tampering with evidence,No,,electronic-search-warrant-notifications.csv,2020
+San Mateo Police Department,San Mateo,,2020-06-02 11:51:00,criminal investigation,Burglary,,,Business,Google,reverse google,2019-06-26 0:00:00,2019-06-26 0:00:00,"was used as the means of committing a felony
 tends to show that a felony has been committed or that a particular person has committed a felony
 ","lead to destruction of or tampering with evidence
 otherwise seriously jeopardize an investigation or unduly delay a trial
 ",No,,electronic-search-warrant-notifications.csv,2020
-Orang Police Department,Orange,12502,43886.53611,Susps stole victim's property as knife point.,Crime of Violence,Robbery,,Device Only,,"Location information
-Geo Fence
-",43802,43812,tends to show that a felony has been committed or that a particular person has committed a felony,otherwise seriously jeopardize an investigation or unduly delay a trial,No,,electronic-search-warrant-notifications.csv,2020
-Tustin Police Dept.,Orange,,44113.54722,Multiple auto thefts which occurred during nighttime hours at an auto mall.,Theft/Fraud,,,Business,Google LLC,Anonymous device ID location data.,44045,44046,"was used as the means of committing a felony
-tends to show that a felony has been committed or that a particular person has committed a felony
-",,No,,electronic-search-warrant-notifications.csv,2020
-Fresno Police Department,Fresno,,44049.34722,The search warrant was related to two homicides that occurred in the same area within a few weeks of each other. The search warrant was addressed to Google to identify the suspect(s) in the area at the time of both homicides.,Homicide,,,Business,Google,Google ID's in a certain area.,43924,43950,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+Fresno Police Department,Fresno,,2020-08-06 8:20:00,The search warrant was related to two homicides that occurred in the same area within a few weeks of each other. The search warrant was addressed to Google to identify the suspect(s) in the area at the time of both homicides.,Homicide,,,Business,Google,Google ID's in a certain area.,2020-04-03 0:00:00,2020-04-29 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
 lead to destruction of or tampering with evidence
 otherwise seriously jeopardize an investigation or unduly delay a trial
 ",No,,electronic-search-warrant-notifications.csv,2020
-Orang Police Department,Orange,12785,43886.53889,Susps struck the victim several times and stole his property.,Crime of Violence,Robbery,,Device Only,,"Location information
-Geo Fence
-",43880,43890,tends to show that a felony has been committed or that a particular person has committed a felony,otherwise seriously jeopardize an investigation or unduly delay a trial,No,,electronic-search-warrant-notifications.csv,2020
-Newark Police Department,Alameda,WAR681012,44372.57014,Home invasion robbery investigation.,Crime of Violence,Robbery,Gang Related,Business,Google LLC,Google Reverse Location Obfuscated IDs/Device IDs,44274,44274,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,electronic-search-warrant-notifications.csv,2021
-Tustin PD,Orange,,44368.58958,Vehicle Burglary,Theft/Fraud,,,Business,Google LLC,Anonymous device ID location data.,44294,44294,was used as the means of committing a felony,,No,,electronic-search-warrant-notifications.csv,2021
-Tustin Police Dept.,Orange,,44272.55278,Commercial Burglary,Theft/Fraud,,,Business,Google LLC,Anonymous device ID location data.,44264,44264,"tends to show that a felony has been committed or that a particular person has committed a felony
+Tustin Police Dept.,Orange,,2020-10-09 13:08:00,Multiple auto thefts which occurred during nighttime hours at an auto mall.,Theft/Fraud,,,Business,Google LLC,Anonymous device ID location data.,2020-08-02 0:00:00,2020-08-03 0:00:00,"was used as the means of committing a felony
+tends to show that a felony has been committed or that a particular person has committed a felony
+",,No,,electronic-search-warrant-notifications.csv,2020
+Santa Clara Police Department,Santa Clara,CSW60094,2020-12-23 13:25:00,PC 261 - Google Reverse Location Search,Crime of Violence,Rape,,Business,Google,Location information,2013-07-26 0:00:00,2013-07-26 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,endanger the life or physical safety of an individual,No,,electronic-search-warrant-notifications.csv,2020
+Marina Police Department,Monterey,19-823,2021-02-25 8:37:00,"Subjects had forced entry into several businesses throughout Monterey county, and stole ATM Machines.  Due to the narrow time frame between events, a Google Geofence warrant was written to assist in identifying possible suspects.  ",Theft/Fraud,,,Device Only,,ID number for subscribers in the area,2019-04-04 0:00:00,2019-04-05 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to destruction of or tampering with evidence
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,electronic-search-warrant-notifications.csv,2021
+Marina Police Department,Monterey,21SW000247,2021-03-10 12:36:00,"On 02/03/2021, an attempted murder occurred at Del Monte Blvd. / Reservation Rd. Marina CA. A male is suspected of shooting the victim in the arm and fleeing the scene. ",Attempted murder,,Gang Related,Device Only,,Google Geofence - Device ID,2021-02-03 0:00:00,2021-02-24 0:00:00,All devices present within the map coordinates incorporated within this Affidavit between:   •	02/03/2021 from 5:10PM PST to 5:2,lead to destruction of or tampering with evidence,No,,electronic-search-warrant-notifications.csv,2021
+Tustin Police Dept.,Orange,,2021-03-17 13:16:00,Commercial Burglary,Theft/Fraud,,,Business,Google LLC,Anonymous device ID location data.,2021-03-09 0:00:00,2021-03-09 0:00:00,"tends to show that a felony has been committed or that a particular person has committed a felony
 CPC 1524.3
 ","lead to flight from prosecution
 lead to destruction of or tampering with evidence
 ",No,,electronic-search-warrant-notifications.csv,2021
-Visalia Police Department,Tulare,21-014539,44280.67569,"Burglary at the Mart N' Bottle in Visalia, CA on 02/19/2021",Theft/Fraud,,,Device Only,,geofence,44246,44246,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+Los Gatos Monte Sereno Police Department,Santa Clara,CSW608-09,2021-03-22 14:35:00,Multiple commercial burglaries. Google geofence warrant used in an attempt to ID suspects.,Theft/Fraud,,,Business,Google,Location information,2021-12-20 0:00:00,2021-12-20 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+",No,,electronic-search-warrant-notifications.csv,2021
+Visalia Police Department,Tulare,21-014539,2021-03-25 16:13:00,"Burglary at the Mart N' Bottle in Visalia, CA on 02/19/2021",Theft/Fraud,,,Device Only,,geofence,2021-02-19 0:00:00,2021-02-19 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
 lead to destruction of or tampering with evidence
 otherwise seriously jeopardize an investigation or unduly delay a trial
 ",No,,electronic-search-warrant-notifications.csv,2021
-Marina Police Department,Monterey,21SW000247,44265.525,"On 02/03/2021, an attempted murder occurred at Del Monte Blvd. / Reservation Rd. Marina CA. A male is suspected of shooting the victim in the arm and fleeing the scene. ",Attempted murder,,Gang Related,Device Only,,Google Geofence - Device ID,44230,44251,All devices present within the map coordinates incorporated within this Affidavit between:   •	02/03/2021 from 5:10PM PST to 5:2,lead to destruction of or tampering with evidence,No,,electronic-search-warrant-notifications.csv,2021
-Sacramento PD,Sacramento,21SW01800,44391.44931,Investigation of what was believed to be a burglary series.,Theft/Fraud,,,Business,"Google, LLC",Anonymized account location data (Geo Fence),44266,44298,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+Los Gatos Monte Sereno Police Department,Santa Clara,CSW61037,2021-03-29 8:20:00,Three commercial burglaries that all occurred on the same night by the same suspects. A geofence warrant was used to attempt to ID suspects.,Theft/Fraud,,,Device Only,,Location information,2020-12-20 0:00:00,2020-12-20 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,electronic-search-warrant-notifications.csv,2021
+Davis Police Department,Yolo,,2021-04-06 14:14:00,Sexual Assault in a public place by an unknown suspect.  Geo fence warrant obtained.,Crime of Violence,"Assault
+Robbery
+",,Device Only,,Basic subscriber information from a service provider,2020-08-11 0:00:00,2020-08-11 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,electronic-search-warrant-notifications.csv,2021
+Tustin PD,Orange,,2021-06-21 14:09:00,Vehicle Burglary,Theft/Fraud,,,Business,Google LLC,Anonymous device ID location data.,2021-04-08 0:00:00,2021-04-08 0:00:00,was used as the means of committing a felony,,No,,electronic-search-warrant-notifications.csv,2021
+Newark Police Department,Alameda,WAR681012,2021-06-25 13:41:00,Home invasion robbery investigation.,Crime of Violence,Robbery,Gang Related,Business,Google LLC,Google Reverse Location Obfuscated IDs/Device IDs,2021-03-19 0:00:00,2021-03-19 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,,No,,electronic-search-warrant-notifications.csv,2021
+Sacramento PD,Sacramento,21SW01800,2021-07-14 10:47:00,Investigation of what was believed to be a burglary series.,Theft/Fraud,,,Business,"Google, LLC",Anonymized account location data (Geo Fence),2021-03-11 0:00:00,2021-04-12 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
 lead to destruction of or tampering with evidence
 otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,electronic-search-warrant-notifications.csv,2021
+Emeryville Police Dept.,Alameda,NONE,2021-07-14 16:46:00,"On 7/3/21 and 7/12/21, two carjacking and robberies occurred in Emeryville. The same suspect vehicle was used in both incidents. A reverse location warrant to Google LLC was sought to obtain location information and potentially identify the suspects.",Crime of Violence,"Assault
+Robbery
+",,Business,"Google, LLC",Location information,2021-07-03 0:00:00,2021-07-12 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+lead to intimidation of potential witnesses
+otherwise seriously jeopardize an investigation or unduly delay a trial
+",No,,electronic-search-warrant-notifications.csv,2021
+Woodland Police Department,Yolo,SW#20-432,2021-07-16 8:36:00,"unknown suspect burned multiple vehicles, Google reverse location history warrant was obtained in an effort to locate a suspect.  ",ARSON,,,Device Only,,Basic subscriber information from a service provider,2020-11-09 0:00:00,2020-11-09 0:00:00,was used as the means of committing a felony,lead to destruction of or tampering with evidence,No,,electronic-search-warrant-notifications.csv,2021
+Woodland Police Department,Yolo,SW#21-80,2021-07-16 8:47:00,"Multiple catalytic converter theft investigation, I obtained a Google reverse location history search warrant to located similar Google accounts at all locations",Theft/Fraud,,,Device Only,,Basic subscriber information from a service provider,2020-05-30 0:00:00,2020-06-04 0:00:00,was used as the means of committing a felony,,No,,electronic-search-warrant-notifications.csv,2021
+Woodland Police Department,Yolo,SW#21-290,2021-07-16 8:51:00,Unknown suspect robbed a bank and fled in a vehicle.  Google reverse location history warrant was obtained in an effort to identify suspect.,Crime of Violence,Robbery,,Device Only,,Basic subscriber information from a service provider,2020-11-18 0:00:00,2020-11-20 0:00:00,was used as the means of committing a felony,,No,,electronic-search-warrant-notifications.csv,2021
+Orange PD,Orange,14291,2021-07-20 8:08:00,Robbery investigation geofence search warrant,Crime of Violence,Robbery,,Business,Google LLC,Other transactional and account records from a service provider,2021-03-14 0:00:00,2021-03-14 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
+",No,,electronic-search-warrant-notifications.csv,2021
+Orange PD,Orange,,2021-07-20 8:17:00,Robbery investigation geofence warrant,Crime of Violence,Robbery,,Business,Google LLC,"Other transactional and account records from a service provider
+Location information
+",2021-03-14 0:00:00,2021-03-14 0:00:00,tends to show that a felony has been committed or that a particular person has committed a felony,"lead to flight from prosecution
+lead to destruction of or tampering with evidence
 ",No,,electronic-search-warrant-notifications.csv,2021
