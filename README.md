@@ -29,8 +29,8 @@ This notebook generates the `data/calecpa-google-warrants.csv` and `data/probabl
 
 | File | Description |
 |------|-------------|
-| **`data/ca-doj/*.csv`** | These are the CSVs included in the State of California Department of Justice's "[Electronic Search Warrant Notifications](https://openjustice.doj.ca.gov/data)" dataset on OpenJustice |
-| **`data/google/Geofence Warrants by Jurisdiction, 2018 through 2020 - Geofence Warrants by Jurisdictions 2018 through 2020.csv`** | This is the CSV included in Google's "[Supplemental Information on Geofence Warrants in the United States](https://services.google.com/fh/files/misc/supplemental_information_geofence_warrants_united_states.pdf)" |
+| **`data/ca-doj/*.csv`** | These are the CSVs included in the State of California Department of Justice's "[Electronic Search Warrant Notifications](https://openjustice.doj.ca.gov/data)" dataset on OpenJustice. |
+| **`data/google/Geofence Warrants by Jurisdiction, 2018 through 2020 - Geofence Warrants by Jurisdictions 2018 through 2020.csv`** | This is the CSV included in Google's "[Supplemental Information on Geofence Warrants in the United States](https://services.google.com/fh/files/misc/supplemental_information_geofence_warrants_united_states.pdf)." |
 
 ### Output
 
