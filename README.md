@@ -1,5 +1,5 @@
-# TK
-This repository contains code and data to reproduce the findings featured in our story, "[TK](https://themarkup.org/TK)."
+# California Geofence Warrants
+This repository contains code and data to reproduce the findings featured in our story, "[Thousands of Geofence Warrants Appear to Be Missing from a California DOJ Transparency Database](https://themarkup.org/privacy/2021/11/03/thousands-of-geofence-warrants-appear-to-be-missing-from-a-california-doj-transparency-database)."
 
 Data we used to perform our analysis is in the `data` folder.
 
